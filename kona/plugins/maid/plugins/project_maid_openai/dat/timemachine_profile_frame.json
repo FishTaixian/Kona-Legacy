@@ -1,0 +1,16 @@
+{
+    "Profile":{
+        "Name":"",
+        "Age":"",
+        "Relationship":"",
+        "Gender":"",
+        "SocialGender":"",
+        "Alias":[],
+        "Pleasure":40,
+        "H":40,
+        "Interested":[],
+        "Bored":[],
+        "Tags":[],
+        "MyThought":""
+    }
+}

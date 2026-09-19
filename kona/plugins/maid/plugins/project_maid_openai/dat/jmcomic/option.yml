@@ -1,0 +1,3 @@
+dir_rule:
+ base_dir: C:\Users\xian2\xian2-Personal Files\Works-Huge\Dev\Project-Kona\Kona\kona\plugins\maid\plugins\project_maid_openai\dat\jmcomic
+ rule: Bd / {Aid}

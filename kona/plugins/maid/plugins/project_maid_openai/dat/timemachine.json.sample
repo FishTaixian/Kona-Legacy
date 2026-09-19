@@ -1,0 +1,47 @@
+{
+    "Maid":{
+        "TimeMachine":{
+            "Year":{
+                "Month":{
+                    "Day":{
+                        "Hour":{
+                            "Minute":{
+                                "Happened":"Something happend. I think it is ... I like it/I dont like it/But",
+                                "Tags":[{"User":"User","Level":"High/Middle/Low","Mood":"Mood"},"Seriously"]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "2832355483":{
+        "Profile":{
+            "Name":"",
+            "Age":"",
+            "Relationship":"",
+            "Gender":"",
+            "SocialGender":"",
+            "Alias":[],
+            "Skills":[],
+            "Interested":[],
+            "Bored":[""],
+            "Tags":[],
+            "MyThought":""
+        },
+        "TimeMachine":{
+            "Year":{
+                "Month":{
+                    "Day":{
+                        "Hour":{
+                            "Minute":{
+                                "Happend":"I was created by THAT MAN while this time.",
+                                "Tags":[{"Level":"High", "MyMood":"Love"},"我的诞生日"]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
